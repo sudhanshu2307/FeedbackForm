@@ -110,6 +110,3 @@ text
     ```
 - If running MongoDB on another host/port, update this URI.
 
-## License
-
-MIT (customize if you wish)
